@@ -1,0 +1,3 @@
+while wait(1) do
+  game.Players.LocalPlayer.leaderstats.coins.Value += 1000
+end
